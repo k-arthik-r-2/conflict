@@ -1,3 +1,2 @@
-print("ATME")
 print("MYSURU")
 
