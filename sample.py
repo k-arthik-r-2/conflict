@@ -1,3 +1,3 @@
 
-print("KPTS")
+print("YYYY")
 print("BLORE")
